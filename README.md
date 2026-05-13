@@ -1,0 +1,1 @@
+# Google-Workspace-Directory-Email-Signature-Generator
