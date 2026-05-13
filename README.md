@@ -62,6 +62,13 @@ const ORG_CONFIG = {
 * **Admin Privileges:** The user who *creates* the script must have at least read-only access to the Google Workspace Directory API.
 * **User Data:** For the signature to populate correctly, users must have the **Job Title** and **Work Phone** fields filled out in the Google Admin Console.
 
+## ⚠️ First Time Use
+When a staff member accesses the tool for the first time, they will be prompted by Google to **"Review Permissions."** They must click **Allow** to grant the script permission to:
+* View their basic profile (Email and Name).
+* View their Directory data (Job Title and Extension).
+
+Once authorized, the signature will generate instantly on every subsequent visit.
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
